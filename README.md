@@ -1,4 +1,4 @@
 mockito-test
 ============
 
-small test project for mockito and spting dependency injection
+small test project for mockito and spring dependency injection
